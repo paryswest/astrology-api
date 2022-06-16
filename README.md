@@ -4,7 +4,7 @@ Basic astrology API application that allows user to utilize API in their own pro
 
 **Link to project:** https://basic-astrology-api.herokuapp.com/
 
-![alt tag](https://github.com/paryswest/astrology-api/blob/31355fbe491906e82fa148c5439dcd79cb780683/astroapi.gif))
+![alt tag](https://github.com/paryswest/astrology-api/blob/31355fbe491906e82fa148c5439dcd79cb780683/astroapi.gif)
 
 ## How It's Made:
 
@@ -13,7 +13,6 @@ Basic astrology API application that allows user to utilize API in their own pro
 I REALLY love astrology, and in the future, I plan on expanding on this API, but for now, I decided to create a simple Astrology API that anyone (even myself) can use to be one of the tools for an awesome astrology website. I want to break the barriers and misunderstandings that people have around astrology, and also, there is not enough data for certain pieces of astrology, so this is the starting point for myself. This can be pulled up in a simple JSON object and integrated to the individuals's liking. 
 
 ## Optimizations
-*(optional)*
 
 As I expressed above, this project is definitely going to be expanded upon in the near future. 
 
