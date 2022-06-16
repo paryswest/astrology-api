@@ -4,7 +4,9 @@ Basic astrology API application that allows user to utilize API in their own pro
 
 **Link to project:** https://basic-astrology-api.herokuapp.com/
 
-![alt tag](https://github.com/paryswest/astrology-api/blob/31355fbe491906e82fa148c5439dcd79cb780683/astroapi.gif)
+<div align="center" >  
+<img src="https://github.com/paryswest/astrology-api/blob/31355fbe491906e82fa148c5439dcd79cb780683/astroapi.gif" alt="AstroApi" height="500px" width="100%" />
+</div>  
 
 ## How It's Made:
 
